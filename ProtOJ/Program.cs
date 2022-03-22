@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProtOJ.Models;
+using ProtOJ.Data;
 // using ProtOJ.Data;
 using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<ProtOJContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("ProtOJContext")));
+    options.UseSqlite(builder.Configuration.GetConnectionString("ProtOJContextSQLite")));
+
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 
@@ -27,6 +30,13 @@ else
     app.UseMigrationsEndPoint();
 }
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    var context = services.GetRequiredService<ProtOJContext>();
+    context.Database.EnsureCreated();
+}
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

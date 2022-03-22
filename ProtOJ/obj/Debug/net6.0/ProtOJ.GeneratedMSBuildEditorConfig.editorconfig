@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProtOJ
 build_property.RootNamespace = ProtOJ
-build_property.ProjectDir = C:\Users\hernd\CIDM4390\ProtOJ\ProtOJ\
+build_property.ProjectDir = C:\Users\Chris\Desktop\GITSETUP\ProtOJ\ProtOJ\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hernd\CIDM4390\ProtOJ\ProtOJ
+build_property.MSBuildProjectDirectory = C:\Users\Chris\Desktop\GITSETUP\ProtOJ\ProtOJ
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Error.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Index.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Privacy.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Sessions/Create.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Sessions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Sessions/Delete.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Sessions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Sessions/Details.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Sessions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Sessions/Edit.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Sessions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Sessions/Index.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Sessions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/_ViewImports.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/_ViewStart.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hernd/CIDM4390/ProtOJ/ProtOJ/Pages/Shared/_Layout.cshtml]
+[C:/Users/Chris/Desktop/GITSETUP/ProtOJ/ProtOJ/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7kevusk593
