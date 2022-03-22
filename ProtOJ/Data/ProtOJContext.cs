@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProtOJ.Models;
 
+namespace ProtOJ.Data
+{
     public class ProtOJContext : DbContext
     {
         public ProtOJContext (DbContextOptions<ProtOJContext> options)
@@ -24,3 +26,4 @@ using ProtOJ.Models;
 
         public DbSet<ProtOJ.Models.Session> Session { get; set; }
     }
+}

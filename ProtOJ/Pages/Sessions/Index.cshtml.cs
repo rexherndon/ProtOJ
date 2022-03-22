@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using ProtOJ.Models;
+using ProtOJ.Data;
 
 namespace ProtOJ.Pages.Sessions
 {

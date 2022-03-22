@@ -10257,19 +10257,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hernd\\.nuget\\packages\\": {}
+    "C:\\Users\\Chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\ProtOJ.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOj\\ProtOJ.csproj",
       "projectName": "ProtOJ",
-      "projectPath": "C:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\ProtOJ.csproj",
-      "packagesPath": "C:\\Users\\hernd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\obj\\",
+      "projectPath": "C:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOj\\ProtOJ.csproj",
+      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hernd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10350,7 +10350,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
