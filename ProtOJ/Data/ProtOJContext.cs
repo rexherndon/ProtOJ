@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProtOJ.Models;
 
-namespace ProtOJ.Data
-{
+namespace ProtOJ.Data{
+
+
+
     public class ProtOJContext : DbContext
     {
         public ProtOJContext (DbContextOptions<ProtOJContext> options)
