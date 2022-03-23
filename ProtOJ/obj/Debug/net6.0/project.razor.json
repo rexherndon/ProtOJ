@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\ProtOJ.csproj",
+  "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\ProtOJ.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,63 +16298,103 @@
   "RootNamespace": "ProtOJ",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Edit.cshtml",
-      "TargetPath": "Pages\\Sessions\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Index.cshtml",
-      "TargetPath": "Pages\\Sessions\\Index.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Delete.cshtml",
-      "TargetPath": "Pages\\Sessions\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Create.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Create.cshtml",
       "TargetPath": "Pages\\Sessions\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Details.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Edit.cshtml",
+      "TargetPath": "Pages\\Sessions\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Details.cshtml",
       "TargetPath": "Pages\\Sessions\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\hernd\\CIDM4390\\ProtOJ\\ProtOJ\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Index.cshtml",
+      "TargetPath": "Pages\\Sessions\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Sessions\\Delete.cshtml",
+      "TargetPath": "Pages\\Sessions\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\GITSETUP\\ProtOJ\\ProtOJ\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
